@@ -2,11 +2,15 @@
 permalink: /
 title: "Christoforos Kagias - Personal Portfolio"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello. My name is Christoforos Kagias and I am a graduate of the Electrical and Computer Engineering Department of the Aristotle University of Thessaloniki with a focus on computer and electronics. I am currently employed at KENOTOM and working on projects in the automotive industry that focus on BEVs (Battery Electric Vehicles). I have experience in deriving hardware requirements from SYS.3 requirement (as described in the ASPICE Process Reference Model), as well as creating unit test suites using the CUNIT framework and testing HW and SW response when simulated faults are injected using the Lauterbach debugger and TRACE32 environment.
+Hello! My name is Christoforos Kagias, and I am an Electrical and Computer Engineer, graduate of the Aristotle University of Thessaloniki, specializing in Electronics and Computer Science.
 
-Other interests of mine include hobby projects that touch on all aspects of the PCB manufacturing process, from preliminary design and schematic review to layout process and component assembly.
+I am currently working as an Electronics Engineer at **KENOTOM – Embedded Systems Solutions**, where I contribute to the development of electronic systems for space applications, as well as internal hardware R&D projects. My work involves electronic circuit design, electrical simulations, component selection, hardware architecture, and technical documentation, with a focus on ECSS standards and engineering practices.
+
+Previously, I worked on automotive industry projects, contributing to hardware requirements engineering for electric vehicle inverters and embedded software testing for BMW projects. Through these experiences, I have developed practical knowledge of digital and analog electronics, hardware development processes, and embedded systems testing using tools such as Altium Designer, LTspice, and Lauterbach TRACE32.
+
+Beyond my professional work, I enjoy exploring personal electronics projects that cover different stages of hardware development, from initial concept and schematic design to PCB layout, manufacturing, and component assembly. I am particularly interested in electronic system design, embedded technologies, and exploring new engineering challenges.
