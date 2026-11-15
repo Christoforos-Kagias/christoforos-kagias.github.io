@@ -1,152 +1,205 @@
+
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Christoforos Kagias",
+    "email": "kagias.christoforos@gmail.com",
+    "phone": "6978541626",
+    "website": "",
+    "summary": "Electrical and Computer Engineer with professional experience in electronic systems development, hardware requirements engineering, and embedded software testing. Experienced in automotive industry projects and research and development activities for space applications, including electronic circuit design, electrical simulations, component selection, technical documentation, and hardware testing. Skilled in Altium Designer, LTspice, C, Python, and electronic design and testing tools.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Thessaloniki",
+      "countryCode": "GR",
+      "region": "Central Macedonia"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
+  "work": [
+    {
+      "name": "KENOTOM — Embedded Systems Solutions",
+      "position": "Electronics Engineer — Space Project",
+      "location": "Kalamaria, Thessaloniki, Greece",
+      "startDate": "2026-02",
+      "endDate": "",
+      "summary": "Contributing to the development of electronic systems for space applications.",
+      "highlights": [
+        "Adapting ECSS standards to project requirements and developing technical deliverable standards.",
+        "Performing electrical simulations using LTspice to evaluate and select appropriate power supply topologies.",
+        "Researching and selecting electronic components, including MCUs, gate drivers, relays, GaN FETs, and ADCs.",
+        "Researching and procuring equipment for electromagnetic compatibility (EMC) testing in accordance with ECSS-E-ST-20-07.",
+        "Participating in product architecture definition and schematic design using Altium."
+      ]
+    },
+    {
+      "name": "KENOTOM — Embedded Systems Solutions",
+      "position": "Electronics Engineer — Internal Projects",
+      "location": "Kalamaria, Thessaloniki, Greece",
+      "startDate": "2025-10",
+      "endDate": "",
+      "summary": "Participating in internal hardware research and development activities.",
+      "highlights": [
+        "Maintaining and developing electronic component libraries using Altium.",
+        "Participating in internal hardware R&D projects.",
+        "Contributing to an ESA proposal for the design of a control module based on the Advanced Power Architecture (APA)."
+      ]
+    },
+    {
+      "name": "KENOTOM — Embedded Systems Solutions",
+      "position": "Basic Software Engineer — BMW Project",
+      "location": "Kalamaria, Thessaloniki, Greece",
+      "startDate": "2024-10",
+      "endDate": "2025-10",
+      "summary": "Developed and executed software tests for automotive embedded systems.",
+      "highlights": [
+        "Created and executed unit tests for C code using the CUnit framework.",
+        "Created and executed tests using CMM scripts, the Lauterbach debugger, and the TRACE32 environment."
+      ]
+    },
+    {
+      "name": "KENOTOM — Embedded Systems Solutions",
+      "position": "Hardware Requirements Engineer — Magna Powertrain Project",
+      "location": "Kalamaria, Thessaloniki, Greece",
+      "startDate": "2023-05",
+      "endDate": "2024-09",
+      "summary": "Contributed to hardware requirements engineering for an inverter designed for all-electric vehicles.",
+      "highlights": [
+        "Participated in defining hardware requirements for an inverter intended for all-electric vehicles.",
+        "Applied knowledge of digital and analog circuits.",
+        "Gained experience with HW SPICE, ASPICE, and V-model processes."
+      ]
+    },
+    {
+      "name": "SKKA — A Life Plan",
+      "position": "Technical Support",
+      "location": "Thessaloniki, Greece",
+      "startDate": "2024-01",
+      "endDate": "",
+      "summary": "Providing technical support and developing digital solutions for organizational needs.",
+      "highlights": [
+        "Providing technical support and resolving technical issues.",
+        "Developing and implementing digital tools and applications using Microsoft Access and SharePoint.",
+        "Creating, managing, updating, and maintaining the organization's website."
+      ]
+    },
+    {
+      "name": "Information Technology Research Office — 95 HCGB",
+      "position": "Technical Support",
+      "location": "Greece",
+      "startDate": "2022-09",
+      "endDate": "2023-05",
+      "summary": "Provided technical support for the computer network of 95 HCGB."
+    },
+    {
+      "name": "Aristotle Space and Aeronautics Team (ASAT)",
+      "position": "Avionics Engineer",
+      "location": "Thessaloniki, Greece",
+      "startDate": "2019-07",
+      "endDate": "2020-09",
+      "summary": "Participated in avionics and electronic systems development activities.",
+      "highlights": [
+        "Designed a PCB for a remote ignition system.",
+        "Designed, assembled, and tested a flight computer.",
+        "Developed a graphical user interface for interpreting GPS data."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Aristotle University of Thessaloniki",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Integrated Master's Degree (MEng)",
+      "startDate": "2015-09",
+      "endDate": "2022-04",
+      "gpa": "6.82/10 — Very Good",
+      "courses": [
+        "Specialization in Electronics and Computer Science",
+        "Thesis: Design of a Safety System for a Laboratory — Grade: 10/10"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Electronics and Hardware",
+      "keywords": [
+        "Digital and Analog Circuits",
+        "PCB Design",
+        "Hardware Requirements"
+      ]
+    },
+    {
+      "name": "Design and Simulation",
+      "keywords": [
+        "Altium Designer",
+        "EasyEDA",
+        "LTspice"
+      ]
+    },
+    {
+      "name": "Embedded Software and Testing",
+      "keywords": [
+        "C",
+        "CUnit",
+        "Lauterbach TRACE32",
+        "PRACTICE Script Language",
+        "Keil",
+        "STM32CubeIDE"
+      ]
+    },
+    {
+      "name": "Programming and Computing",
+      "keywords": [
+        "Python",
+        "SQL",
+        "MATLAB/Octave"
+      ]
+    },
+    {
+      "name": "Standards and Processes",
+      "keywords": [
+        "ECSS",
+        "EMC",
+        "HW SPICE",
+        "ASPICE",
+        "V-model Workflow"
+      ]
+    },
+    {
+      "name": "Microsoft Technologies",
+      "keywords": [
+        "Microsoft Access",
+        "SharePoint"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Greek",
+      "fluency": "Not specified"
+    },
+    {
+      "language": "English",
+      "fluency": "C2 — Michigan Proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "B1 — Goethe-Zertifikat"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Judo"
+    },
+    {
+      "name": "Technological Innovations in Formula 1"
+    },
+    {
+      "name": "Movies and TV Shows"
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
